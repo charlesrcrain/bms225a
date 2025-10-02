@@ -4,4 +4,6 @@
 
 이 서엄이 싫잖아...
 
+CONFLICT
+
 This is my repo for BMS 225A - Data Science.
